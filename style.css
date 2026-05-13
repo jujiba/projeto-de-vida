@@ -26,7 +26,7 @@ body {
 }
 
 .titulo-principal {
-  text-align: left;
+  text-align: center;
   width: 100%;
   font-size: 32px;
 }
@@ -58,3 +58,23 @@ body {
 .botoes {
   display: block;
 }
+
+
+.aba-conteudo-ativo {
+  display; block;
+}
+
+.aba-conteudo {
+  display: none;
+}
+
+.aba-conteudo-titulo-principal {
+  font-size: 28px;
+  text-align: center;
+}
+
+.aba-conteudo-titulo-secundario {
+  text-align: cente;
+  color: var(--verde)
+}
+
